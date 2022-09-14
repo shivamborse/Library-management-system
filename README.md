@@ -22,6 +22,6 @@ Student View:
 1. View all the records of book
 2.For database I used Mysql. 
 
-Attachments- Zip file of project
+Attachments- Zip file of project,
 admin details-  user name-- borse
                 password-- borse1234
