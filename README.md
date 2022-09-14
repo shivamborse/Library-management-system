@@ -22,6 +22,10 @@ Student View:
 1. View all the records of book
 2.For database I used Mysql. 
 
+Documention of backend - Creating web service to add book ,delete book,update book ,and creating web services for all the opration and call this services in views ,connect to mysql and store database in mysql.
+                        
+
 Attachments- Zip file of project,
+             Zip file of database
 admin details-  user name-- borse
                 password-- borse1234
